@@ -1,0 +1,61 @@
+I'm going to start this perspective by saying that scale is always good when it comes to our ability to understand the world. While getting to scale is hard, we hold it in our hands to increase the ability of the systems we work in to scale. 
+
+At the same time we are sometimes blind to what we can do to help create that scale, we can have a kind of a systems blindness. It takes intentional work to move us forward, and the work that the https://democratizingdata.ai  project is doing is exactly that right kind of work. So the question for us is how can we build on top of this initiative, and initiatives like this, to continue to scale our knowledge systems?
+
+But first let me start by painting the picture of how the production of knowledge has scaled up over the last decade, at least from the perspective of the publishing corner of the ecosystem.
+
+Data from Dimensions (https://www.dimensions.ai) -- an indexing and abstracting service,  shows that there were just a few thousand publications per year in the middle of the 19th Century. That rose to about half a million papers per year by the late 1960s, on to 1.7 million towards the end of 2000, and an astonishing 7 million by the end of 2022. Over the 350 or so years since Philosophical Transactions of the Royal Society was first published (and BMJ the company I work for has been publishing since 1840), that is a remarkable increase in scale of scholarly output. 
+
+Our systems have evolved over time, how we cite, how we use indicators such as the impact factor, even peer review itself - which only evolved into its current form as late as the early 1980s, but as publishers the key shift that we are undergoing now is moving from a document centric view of the world to a person centric view of the world. 
+
+This is connected with the shift to open access where our relationship is increasingly closer to the author than the library, but it is also motivated by the increase in scale that we are seeing. Being able to get high quality data about our authors, what topics they are interested in, what data they work with, how the work that they publish has rippling effects of impact, is critical for publishers who want to help our authors understand the impact of their work, help funders understand the impact of what they have funded, and help ourselves as publishers deal with scaling issues through finding ways to bring more efficiencies into the system. 
+
+The layer of connection between researchers, data sets, publications, and government agencies that democratising data is creating is exactly the kind of information that we need to be able to do this work well. 
+
+To illustrate this At BMJ alone, in 2022 we had over 770 million access requests to the content that we publish. It remains that case that most of these access requests were anonymous, and that we have not yet been able to create the story behind those numbers to provide to our authors to start to be able to connect our authors with the audiences for their work. We are in the process of building out the systems that will allow us to do just that, and we are seeking ways to turn what we do from being transactional around dumb documents into being more active around not only the papers we publish, but the underlying concepts, entities, and audiences that that are connected through the work and the people developing the work. 
+
+Benefits that we will see are around being able to scale this way should allow us allocate resources more effectively. From a publishing perspective  today one of the hardest things to do is to find the right reviewer for the right paper. Needing to cycle through multiple reviewers is a waste in the system. In addition when we apply any level of selection criteria to a journal, e.g. based on scope or community interest, there will be papers that get rejected from one journal to go on and get published elsewhere. This is again a form or waste that better data could help us reduce. 
+
+Better data could also help us create better connections across communities or disciplines of practice. The holy grail in medical research is to get from bench to bed, where fundamental research can be applied in medical practice, but that requires the ability to connect across multiple boundaries of practice.  If we can scale insight around who is doing what, with what kinds of data, we can make it easier to connect researchers who are tackling common problems. More exciting still is finding ways to connect disparate and different people where cross pollination of ideas can lead to real innovation.  
+
+Where we have had a role in connecting folk there have been outsized impacts from making those connections. BMJ has had over 31,000 people coming together over the course of 2022 in BMJ-led events and we have been able to see the percolation of ideas from these events into hospital trusts.  
+
+These kinds of opportunities for scale, whilst interesting in themselves, are in service of something larger. For BMJ that is about creating a healthier world. We know in the future that rising and ageing populations will put healthcare systems under increasing pressure. This increases the pressure to find ways to equip our health care professionally with more effective ways to train and work.  In reality many of us do work that we hope can move the needle on problems, be those local, national or global in scale.  
+
+All of these issues of scale, are however, predicated on the need to have a trustworthy scholarly record - that we can trust what is being published. That assumption is coming under increased strain.
+
+As mentioned already, one of the reasons behind that is that we have not scaled how our systems work in the same way that we have scaled the amount of research activity that is happening globally. 
+
+We are seeing an increase in the submission of fake papers, and the creation of fake researchers, and fake peer review rings. While knowledge is created and transmitted by people, the scholarly record is the idempotent record of state over time. 
+
+We need that record to be trustworthy, and we need new tools and techniques to deal with new patterns of misbehaviour. More highly validated and trustworthy data about research outputs is critical here.
+
+Publishers are thinking hard about these issues. Springer Nature have made investments of about 
+ US$293.7 million in technology between 2019 and 2021 "to improve and speed up the publishing experience, ensure research integrity is protected, and misinformation is tackled", and there is a collective effort to create tools to identify fake papers. 
+
+We are adopting more and better linking between entities such as grant identifiers, authors, papers, funders, data sets, and institutions, but we are only ever able to link what kinds of data we have available. 
+
+The more high quality data that we have that we can link together, the more robust our picture of research at scale becomes, and the more capable we are of addressing the issues and opportunities I've laid out above. 
+
+To get data directly from government agencies, or funders, about what data is being used, by whom, in what way, is invaluable to broaden out the picture that I am presenting here. 
+
+The more actors in our knowledge economy move to adopt data driven and open data practices, the better it is for everyone. 
+
+There is clearly a strong appetite to improve our systems in ways that improve the scholarly record, but it's not sufficient to build something, and hope that it will get adopted. 
+
+Any change to a system incurs cost, and requires work and  coordinated effort to get taken up by a broad range of folk. 
+
+In order for change to happen it has to align with the incentives that organisations want to follow. That means either solving pain points that have become unbearable (and believe me, existing systems can bear quite a lot of pain before they are forced to undergo change), or more powerfully make it easier for organisations to realise opportunities by reducing friction for those organisations.  
+
+Publishers are increasingly focused on real world impact. BMJ for example has invested in the development of BMJ Impact Analytics which uses NLP to extract references to academic papers from policy documents, helping to understand that research to impact connection. As with many other publishers we are also 
+Committed to supporting the UN sustainable development goals. This is because we know that this is what most of our customers want from us. 
+
+The work of Democratising Data is squarely aligned with your needs, but how can we best activate that?
+
+The following are some rules of thumb that I hope can help. 
+
+Some strategies for consideration by this community. 
+It is important to make the licensing of working with this technology or data easy. Open licences, and clear terms and conditions, are key to allow legal review on collaboration to move smoothly. It is helpful to start with a specific domain, as you can get leverage in that domain initially. Having direct proof of value is invaluable in making the case. It is helpful to identify who the activist academic, funders, and commercial partners are, give them a voice, and let them share their experiences. Allow them to create and share stories of success, for while the data is a necessary condition, alone is not sufficient, we need stories and narratives to move us. 
+
+This enterprise of scientific creation of knowledge might seem well embedded in our societies, but it has only been around for a few hundred years, a blink of an eye. Our use of the internet, and internet scale technologies might seem fixed, but they are newer still, and devices and techniques that can work at scale are only now becoming more commonplace within our research infrastructures. The future stretches out in front of us, and is there to be shaped by us, for us. Creating good ways of scaling collaboration, uncoupling systems, but finding common connections through identifiers, and having trustworthy provenance of that data, are all things that can help us to create a far more resilient, scalable, and better research future. 
+
