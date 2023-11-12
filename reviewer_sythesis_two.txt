@@ -1,56 +1,10 @@
 cat reviewer-comments.txt | llm -m 4t "there are comments from four reviwers, but some of the comments overlap, e.g. questions about use of dimensions. In order to help me address the revier comments carefully read through the reviewer reports, and list out explicit requests from the reviewers where available, with quotes from each reviwer on each topic identified. For each topic also give a list of which reviwers mentioned that theme."
 Below, I have compiled a list of the explicit requests and common themes mentioned by the reviewers along with the relevant quotes from each reviewer.
 
-### 1. Clarification of DemocratizingData.ai's Role and Characteristics
-- Reference to **Reviewer 1**: "The article is a proponent of DemocratizingData.ai but the characteristics of this platform that make it worthy of this view are never explained."
-- Reference to **Reviewer 3**: "As an example, Democratizing AI is referenced obliquely several times as a motivating effort, but not explained or positioned with respect to the text."
 
-**Reviewers mentioning this theme**: 1, 3
 
-### 2. Scale and Quality of Information
-- Reference to **Reviewer 1**: "The opening statement 'scale is always good' is not substantiated by the rest of the article."
-- Reference to **Reviewer 4**: "The assertion that 'scale is always good when it comes to our ability to understand the world' requires some backing up or (better still) qualification."
 
-**Reviewers mentioning this theme**: 1, 4
 
-### 3. Clarify the Shift from a Document-Centric to Person-Centric View
-- Reference to **Reviewer 1**: "…the key shift that we [publishers] are undergoing now is moving from a document centric view of the world to a person centric view."
-- Reference to **Reviewer 4**: "'[T]he key shift that we are undergoing now is moving from a document centric view of the world to a person centric view of the world.' This is arguably true, but probably not for the reasons stated."
 
-**Reviewers mentioning this theme**: 1, 4
 
-### 4. Clear Narrative and Context
-- Reference to **Reviewer 3**: "The manuscript presents as a set of notes for a panel talk. As a result it lacks context and background and is difficult to follow as a standalone piece."
-- Reference to **Reviewer 2**: "The main challenge of this piece is getting these points across clearly - if I have understood them correctly. The article has a stream of consciousness style that does not help - the thoughts jump around a bit rather than follow a path."
 
-**Reviewers mentioning this theme**: 2, 3
-
-### 5. Need for More Concrete Examples and Evidence
-- Reference to **Reviewer 2**: "Finally, I did not come away with a clear picture of the power of data - could an inspirational case study or two be included to help illustrate the potential?"
-- Reference to **Reviewer 3**: "There are several statements of 'things being done' or investments where concrete examples and/or references would be a benefit."
-
-**Reviewers mentioning this theme**: 2, 3
-
-### 6. Addressing Risks and Alternative Views
-- Reference to **Reviewer 3**: "On the question of content the paper is arguing for what some have critically referred to as 'surveillance capitalism' without acknowledging this controversy or addressing risks."
-
-**Reviewers mentioning this theme**: 3
-
-### 7. Use of Open Data and References
-- Reference to **Reviewer 2**: "After a brief introduction that outlines the increase in the rate of publication of papers since the 1960s based on Dimensions...isn't there a more accessible source to cite?"
-- Reference to **Reviewer 3**: "It seems odd in the context of an argument about access to data and open access to use a closed source of data, Dimensions, to commence the argument."
-
-**Reviewers mentioning this theme**: 2, 3
-
-### 8. Improvement on Writing Style and Structure
-- Reference to **Reviewer 4**: "I would also recommend copy edits to make some of the sentences shorter, some of the paragraphs longer, and some of the punctuation more consistent and comprehensible."
-
-**Reviewers mentioning this theme**: 4
-
-### 9. Rules of Thumb and Recommendations for The Community
-- Reference to **Reviewer 4**: "The point on clear, open licensing is well taken, but what about: [...]"
-- (Implied) Reference to **Reviewer 1**: In regards to the concluding "rules of thumb", additional clarity and relevance seem to be requested.
-
-**Reviewers mentioning this theme**: 1, 4
-
-When addressing these comments in your response, it will be important to be thorough and consider how each revision or non-revision advances the manuscript and addresses the reviewers’ concerns. Making sure you systematically respond to each of these points in your "Response to Reviewers" will be crucial for a successful resubmission.
