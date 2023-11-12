@@ -1,0 +1,118 @@
+ear Mr Mulvany,
+
+Thank you for submitting your manuscript to the Harvard Data Science Review. Your manuscript has been evaluated by independent peer reviewers and HDSR editors. 
+
+We appreciate the importance of the topic addressed in your manuscript. The editor in charge of handling your paper recommends a decision of minor revision, but also raises a number of concerns. HDSR is happy to follow this recommendation, although without making any commitment for eventual publication. 
+
+The editor and reviewers' comments are appended below.
+
+Please include with your revision a letter detailing:
+
+
+1. the changes made in response to the reports or on your own initiative, and
+2. the reasons for any changes not made in response to the reports.
+
+
+This should be uploaded as a separate "Response to Reviewers" document. Please be aware that all responses will be available to the advisory editor and all reviewers. 
+
+Your revision is due by December 11, 2023. 
+
+To submit a revision, go to https://www.editorialmanager.com/hdsr/ and log in as an Author. You will see a menu item called Submissions Needing Revision. 
+
+We thank you for giving us the opportunity to evaluate your manuscript for HDSR.
+
+Yours sincerely
+
+Xiao-Li Meng
+Founding Editor-in-Chief
+Harvard Data Science Review
+--------------------------------------------------------------------------------------------
+
+COMMENTS FROM THE EDITOR:
+
+Thank you so much for submitting such an interesting and insightful piece. We are thrilled to have such a strong publisher's perspective. We now have four very thoughtful responses. They all really like what you have done, but would like a bit of a stronger narrative and rewrite. As a result, we'd like you to revise the manuscript incorporating as many of their specific suggestions as possible. Referee 3 clearly did not understand that this was a vision piece, but still had some good suggestions that could be incorporated. We very much appreciate your willingness to do this, and look forward to the revision.
+
+
+COMMENTS FROM REVIEWERS:
+
+REVIEWER 1:
+
+Overall, this article provides valuable insights from a world leading publisher on the need for contextual information around scholarly literature; the importance of connectedness among components and artifacts of the research enterprise; and the need for vigilance and attention to quality as the amount of curated information continues to grow. The presentation and structure of the article, however, obscure these valuable insights.
+* The article is a proponent of DemocratizingData.ai but the characteristics of this platform that make it worthy of this view are never explained. In the concluding "rules of thumb", the first paragraph leads with "It is important to make the licensing of working with this technology or data easy." It's unclear which technology and data are being referenced - presumably technologies and data integration platforms like Democratizing Data but, again, the characteristics that make this tool important are missing. 
+* The opening statement "scale is always good" is not substantiated by the rest of the article. Later, the author acknowledges the risks of scaling without maintaining quality and gives examples of the risks of enormous scale-up in article submission and possibly even publication from fake articles. Given the huge and long-standing concern over irreproducible research, the first half of the article, until these risks are explicitly mentioned, comes off as naive. Perhaps the opening perspective is not meant to imply scaling up in the number of publications, but rather in the contextual data around publications. 
+
+This reviewer feels that the focus on scalability is misplaced and detracts from the real message of the article. To this reviewer, the real organizing insight of the article is the following: "…the key shift that we [publishers] are undergoing now is moving from a document centric view of the world to a person centric view of the world… This is connected with the shift to open access where our relationship is increasingly closer to the author than the library, but it is also motivated by the increase in scale that we are seeing." The author describes unique and important opportunities for publishers to serve authors, funders, and the research ecosystem at large by contextualizing publications through this person-centric view. Being able to connect and create stories about, for example, physician scientists at the translational end of research and the basic research artifacts is compelling for many audiences. Doing so in ways that protect privacy and anonymity will be
+critical. The author also describes the opportunities publishers have for making their operations and processes more efficient through this person-centric view. 
+
+
+
+REVIEWER 2: 
+
+This is an opinion/thought leading piece for a "Democratising Data' special issue of HDSR.
+
+Entitled "a publishing perspective on the power of data" the abstract promises to discuss how data systems could be enhance to scale up the production of knowledge and that a more person-centric view of the world will help us to do this.
+
+After a brief introduction that outlines the increase in the rate of publication of papers since the 1960s based on Dimensions (I don't doubt the numbers but this is a closed system - isn't there a more accessible source to cite?) the author states that publishers are undergoing a "key shift from a document centric view of the world to a person centric view of the world." The author then goes on to explain the desire to understand connections between authors, readers, funders, and the concepts in the papers ie a knowledge graph. Here I missed the connection between 'scaling' this knowledge graph and the ability to stop churn in review systems - the next paragraph - how? I am not sure I grasped a person-centric view emerging specifically.
+
+Some of the paragraphs are quite light and as a consequence are a bit unsatisfying. For example: "Any change to a system incurs cost, and requires work and coordinated effort to get taken up by a broad range of folk." It makes me wonder what kind of costs (how to fund too), work and coordination potentially? Who are the broad range of folk? Another example: I am not sure why the UN sustainable development goals sentence is dropped in - great goals but so high level are they so influential on the ground?
+
+Overall I think the main points that the author is making are that while the volume of papers being published has increased dramatically, our publishing processes remain stuck in a different time, which effects our abilities to (a) operate the publishing process efficiently and with confidence/trustworthiness and (b) makes it harder to capitalise on opportunities from machine processing/knowledge graph traversal. And the better (a) is, the greater impact (b) could have with respect to making disparate connections to solve real world challenges, informed by use cases from key stakeholders such as funders.
+
+If these are the main points, these are good points. But the main challenge of this piece is getting these points across clearly - if I have understood them correctly. The article has a stream of consciousness style that does not help - the thoughts jump around a bit rather than follow a path.
+
+I get that this is a publisher's view but what of the wider research ecosystem? How about integration with other sources of information (EHR data, wearables, environmental or longitudinal data?) Since the article is about scale I did wonder how one journal/publisher could influence others to collaborate. I'm glad the author is concrete about the importance of licensing - some of the solutions needed will come from beyond the originating publishers of papers and this will be key to scaling and its opportunities. 
+
+Finally, I did not come away with a clear picture of the power of data - could an inspirational case study or two be included to help illustrate the potential? Perhaps from the Democratising Data project itself (or other articles in this issue - ie point forward?)
+
+
+REVIEWER 3: 
+
+The submitted manuscript is a perspective from the publishing industry on scaling of data capabilities and access as a way to address challenges in the publication systems. It also describes a change in approach and centre for the publishing process from an output-centric to a person centric view.
+
+The manuscript presents as a set of notes for a panel talk. As a result it lacks context and background and is difficult to follow as a stand alone piece. For a resubmitted piece I would advise re-organising, providing greater context and developing a clear narrative arc that is independent of the other submissions. As an example, Democratizing AI is referenced obliquely several times as a motivating effort, but not explained or positioned with respect to the text. Similarly the suggestions that conclude the paper are not clearly directed to any specific audience. I can see how this would have worked in the context of a panel session to a specific audience but as a paper it is challenging to get a grasp on what the intent is.
+
+The manuscript is not referenced and it contains many assertions or statements that would benefit from a more balanced presentation as well as supporting evidence. As an example "Where we have had a role in connecting folk there have been outsized impacts from making those connections...we have been able to see the percolation of ideas from these events into hospital trusts" would benefit from references and explicit cases. There are several statements of "things being done" or investments where concrete examples and/or references would be a benefit.
+
+On the question of content the paper is arguing for what some have critically referred to as "surveillance capitalism" without acknowledging this controversy or addressing risks. If the structural aspects were addressed I would remain critical of the presentation in its current form if it presents a view that publishers need to gather and centralise more data to protect the scholarly record without some more balance. It is, of course, appropriate to present an opinion or argument and I would not seek to block that. In the context of a scholarly paper I would nonetheless expect that alternative views be acknowledged and addressed. This will strengthen the value of the piece as a position paper, by making it clear how the view presented contrasts with alternatives, helping the argument to move forwards productively. 
+
+I will not provide a detailed critical reading of the argument at this point, but will be happy to review a resubmitted version that addresses the structural issues described above. Below I provide some minor points of detail which might be helpful to address and provide some examples of how to tighten the argument:
+
+1. It seems odd in the context of an argument about access to data and open access to use a closed source of data, Dimensions, to commence the argument. Sources such as OpenAlex and Crossref can provide similar information from open sources and arguably have a greater international scope. From the point of that data itself it is important to note that any long term projection of content volumes is heavily biased by coverage of the data source used. It is very unclear what the contribution of expanded coverage is vs actual growth.
+2. I personally wouldn't describe Dimensions as an "Abstracting and Indexing service" - it really does neither of these things but aggregates abstracts and indexes together
+3. Arguments based on expenditure of money are less convincing than concrete examples and results. What are these investments resulting in? How well is it working? What is changing?
+4. There is a contradiction between presenting an aspiration for global systems and the idea of returning to a "trustworthy scholarly record" that should be critically addressed. "The scholarly record" is a recent concept, built exclusively on western concepts of scholarly publishing. Efforts to exclude whole classes of author need to address the challenges of false positives as well as false negatives and how these will be biased. Particularly in the context of AI which by definition structures and delivers bias, it is important to acknowledge power relationships and their inherent risks. 
+5. Terms such as "fake papers" are used without qualification or nuance. There are substantial grey areas between the industrial papermills and well-meaning but low quality efforts in under-resourced areas to gain a toe-hold in the western dominated scholarly publication space. Additionally, in this context, an acknowledgement of the drivers of the expansion of fraud and the role of publishers in contributing to a publish or perish culture should be included. Claiming a role for fixing the problem while simultaneously positioning publishers as "only responding to demand" makes for a weak argument.
+
+Hopefully these comments are useful. The paper has potential as a position piece on the perspective of publishers. However in its current form I can't recommend it for publication in a scholarly journal.
+
+REVIEWER 4: 
+
+Since this is an opinion piece, it seems inappropriate to ask whether its assertions are true by some objective standard – they are mostly matters of opinion, which is the whole point. Rather, it seems more useful to assess whether questions are well-posed and arguments convincingly made. In other words, where might a fair-minded but intrinsically skeptical reader push back? This is the approach I have adopted here.
+
+The subject is an interesting and important one for the research enterprise. The author is well placed to comment on the issues raised, being both experienced and well-regarded in the field.
+
+The main thesis is that data about research should be 'democratised' in the sense of being made more widely available, usable (both technically and legally) and comprehensible. It goes on to examine barriers to this happening and approaches to lowering them.
+
+Specific comments:
+
+* The assertion that "scale is always good when it comes to our ability to understand the world" requires some backing up or (better still) qualification. The underlying sentiment appears to be that more information is better than less information. Well, up to a point. Is the vast scale of social media a net positive or negative for humanity's understanding of itself and the world? I would argue the latter. When it comes to information, quality matters even more than quantity. Indeed, quantity in the absence of quality can be hugely detrimental to human knowledge and flourishing. To assert that "scale is always good" is somewhere between blithely over-optimistic and dangerously wrong.
+
+* Unless already made clear by accompanying content, it would be useful to briefly outline the activities of the Democratizing Data project (https://democratizingdata.ai/) and why it is "exactly that right kind of work" in the context of this piece.
+
+* "[T]he key shift that we are undergoing now is moving from a document centric view of the world to a person centric view of the world." This is arguably true, but probably not for the reasons stated. The main relational change provoked by the rise of OA has not been from library to author, but from reader to author. In other words, publishers are still ultimately serving individual researchers, but in a different capacity. This certainly creates different data needs: as correctly pointed out, readers and authors have different levels and kinds of interests in metrics. But the real reason for the declining relevance of the document-centric publisher perspective is that there are simply too many documents for researchers to read, placing an emphasis on intelligent, responsive and personalised discovery and summarisation across corpora. In other words, the communication between author and reader is becoming increasingly mediated by technology that sees papers as algorithm
+fodder rather than as primary objects of scientific communication in their own right. This also relates to the (correct) observation that authors would benefit if publishers knew more about readers and their interests. But so, too, would readers.
+
+* It is correct to say that the peer-review process is wasteful and could be made much more efficient and effective if information about it were shared, especially between titles and publishers. But the barriers here seem to have much more to do with established research culture and incentives (whether academic or commercial) than with strictly practical or technical barriers. It would be worth pointing this out.
+
+* It would be interesting to hear a bit more about how data could break down traditional subject-based silos. For example, might useful cross-disciplinary recommendations and summaries, together with compelling visualisations, help to change researchers' sense of themselves and their position in the research ecosystem? Indeed, would seeing it as a network-like ecosystem rather than a series of distinct departments or communities help in some way?
+
+* "Springer Nature [sic] have made investments of about US$293.7 million in technology between 2019 and 2021" would be better positioned as a claim. Who knows how they have defined and calculated this? But it is certainly evidence that at least some big publishers want to be *seen* to be doing something.
+
+* In the section beginning, "The following are some rules of thumb that I hope can help", the sentence "Some strategies for consideration by this community" appears out of place. More substantively, the text that follows doesn't really seem to amount to a set of useful rules of thumb. The point on clear, open licensing is well taken, but what about:
+- Ways to better capture potentially useful information that is currently missed or excluded (eg, that relating to peer review)?
+- Ways of making data more discoverable by those who might use it?
+- Ways of creating extensible software systems and, more generally, sharing best practice in order to avoid duplication of effort?
+These may or may not be the right categories, but this sort of thing would provide a more useful list for people to go away with and apply in their work.
+
+I would also recommend copy edits to make some of the sentences shorter, some of the paragraphs longer, and some of the punctuation more consistent and comprehensible. But I assume this will form part of the editorial process, so won't make specific suggestions here.
+--
