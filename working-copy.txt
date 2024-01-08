@@ -2,7 +2,7 @@ I'm going to start this perspective by saying that scale is always good when it 
 
 At the same time we are sometimes blind to what we can do to help create that scale, we can have a kind of a systems blindness. It takes intentional work to move us forward, and the work that the https://democratizingdata.ai  project is doing is exactly that right kind of work. So the question for us is how can we build on top of this initiative, and initiatives like this, to continue to scale our knowledge systems?
 
-But first let me start by painting the picture of how the production of knowledge has scaled up over the last decade, at least from the perspective of the publishing corner of the ecosystem.
+But first let me start by painting the picture of how the production of knowledge has scaled up over the last decades, at least from the perspective of the publishing corner of the ecosystem.
 
 Data from OpenAlex (https://openalex.org/works?sort=cited_by_count%3Adesc&column=display_name,publication_year,type,open_access.is_oa,cited_by_count&group_by=publication_year) -- an open source/open data alternative to Google Scholar,  tracks just a few thousand publications per year in the middle of the 19th Century. That rose to about half a million papers per year by the mid 1960s, breaking a million in 1975, and an astonishing 10 million by the end of 2020. That is a remarkable increase in scale of scholarly output since the first issue of Philosophical Transactions of the Royal Society, about 350 years ago. 
 
@@ -30,8 +30,7 @@ We are seeing an increase in the submission of fake papers, and the creation of 
 
 We need that record to be trustworthy, and we need new tools and techniques to deal with new patterns of misbehaviour. More highly validated and trustworthy data about research outputs is critical here.
 
-Publishers are thinking hard about these issues. Springer Nature have made investments of about 
- US$293.7 million in technology between 2019 and 2021 "to improve and speed up the publishing experience, ensure research integrity is protected, and misinformation is tackled", and there is a collective effort to create tools to identify fake papers. 
+Publishers are thinking hard about these issues. Springer Nature have made investments of about  US$293.7 million in technology between 2019 and 2021 "to improve and speed up the publishing experience, ensure research integrity is protected, and misinformation is tackled", and there is a collective effort to create tools to identify fake papers. 
 
 We are adopting more and better linking between entities such as grant identifiers, authors, papers, funders, data sets, and institutions, but we are only ever able to link what kinds of data we have available. 
 
