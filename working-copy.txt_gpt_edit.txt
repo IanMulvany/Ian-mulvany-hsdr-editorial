@@ -1,0 +1,27 @@
+In this piece, I outline my thoughts on why I believe creating interconnected data and metadata systems is beneficial for the development of a robust knowledge ecosystem. My perspective comes strongly from the scholarly publishing side of the ecosystem. I acknowledge that what I present here does not provide a complete picture, nor is it referenced, but I hope that it can foster a broader appreciation of some of the opportunities we have today and open perspectives on how we can collaboratively maximize them.
+
+I am also going to frame this broader perspective in relation to the work that is being done to democratize data. Other papers in this collection will look more closely at the emergence and evolution of US Government requirements about evidence-based policy making and the historical development of directives, initiatives, and infrastructure to support that. However, my own view is trans-governmental, as publishers occupy a space in the ecosystems apart from funders, researchers, governments, and institutions, but in support of all of them.
+
+My viewpoint is grounded in my experience working in the technical and product development areas of scholarly publishing, seeing firsthand the code, systems, and costs involved in "keeping the lights on," so to speak. I have worked on building some of the earliest social web infrastructures for science (Connotea, Nature Network), contributed to the establishment of new standards for data citation, been involved in the creation of source publishing platforms (https://github.com/elifesciences), and managed product and software development teams in this arena for about twenty years. 
+
+Key points I aim to make are:
+
+- Our knowledge systems have never been static. We can, and should, continuously reexamine how we operate. We do not need to be locked into working today as we have in the past.
+- The volume of knowledge production has grown in scale to such an extent that we now need new forms of infrastructure and investment to make the most of the knowledge that we are creating.
+- There is a significant shift now from the journal to individual impact, and Publishers are changing to support that.
+- The work of democratizing data.ai aligns directly with these changes, and I, as a publisher, welcome them.
+- We have a long way to go.
+
+We are now working within a knowledge ecosystem that has scaled up remarkably over the last few decades. OpenAlex's data (https://openalex.org/works?sort=cited_by_count%3Adesc&column=display_name,publication_year,type,open_access.is_oa,cited_by_count&group_by=publication_year), an open-source/open data alternative to Google Scholar, showed only a handful of publications per year in the mid-19th Century. That number increased to about half a million papers per year by the mid-1960s, exceeded a million in 1975, and an astonishing 10 million by the end of 2020. This is a remarkable increase in the scale of scholarly output since the first issue of the Philosophical Transactions of the Royal Society about 350 years ago. 
+
+We can assert that scale is good for our ability to understand the world, yet operating in a coordinated way at scale is challenging. 
+
+There are efficiency gains to be had, mostly encapsulated by Clay Shirky’s idea of filter failure versus information overload. Better data could help us establish enhanced connections across communities or disciplines of practice. The "holy grail" in medical research is the transition from bench to bed, utilizing fundamental research in medical practice, but bridging that gap requires the ability to connect across multiple boundaries of practice. 
+
+One way to frame this is to consider whether datasets could be regarded as social objects, akin to a perspective we took when contemplating the architecture of Web 2.0 sites. For example, initiatives like democratizindatabase.ai could potentially transform governmental datasets into social objects and create interest communities that transcend disciplinary silos. 
+
+Benefits also exist around maintaining the integrity of the scholarly record. Fake papers are an increasing problem, with approximately 2% of papers submitted to journals being fake, and that number is growing. To analyze this, we require systems that develop individual profiles of researchers' interests and activities. The STM integrity hub is another example of this work (https://www.stm-assoc.org/stm-integrity-hub/), where publishers are collaborating on detecting signals at scale of fake papers. 
+
+We must acknowledge the potential pitfalls that programs like this can present and identify the steps we must take to operate in a manner that is respectful and valuable to the overall research ecosystem. 
+
+To conclude, the scientific creation of knowledge may seem deeply entrenched in our societies, but it has only been around for a few hundred years. Our use of the internet and internet-scale technologies are even newer. Creating good ways of scaling collaboration, decoupling systems while finding common ground through identifiers, and ensuring trustworthy provenance of data can all help us create a more resilient and scalable research future. I've been working on many of these types of systems over the past twenty years, and I'm still engaged in this work and excited for what the next twenty years brings.
